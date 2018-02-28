@@ -32,7 +32,7 @@
 * v - visual mode
 * V - visual line mode
 * < - unindent
-* > - indent
+* >  indent
 * CTRL+V - visual block mode (SUPER USEFUL)
 * I - insert at selected block (e.g. commenting out multiple lines)
 * d - delete selected block
@@ -67,5 +67,5 @@
 * :set nu! - toggle line numbers on and off
 
 
-#Other Reference repos and sources:
+# Other Reference repos and sources:
 * https://github.com/melling/EditorNotes/blob/master/vim.org
