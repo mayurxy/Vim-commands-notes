@@ -65,3 +65,7 @@
 * :echo @% - show current file
 * :set nu (short form of :set number) - show line numbers
 * :set nu! - toggle line numbers on and off
+
+
+#Other Reference repos and sources:
+* https://github.com/melling/EditorNotes/blob/master/vim.org
